@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am applying for the Senior Software Engineer role at Chainflip Labs. I am a Senior Blockchain and Full Stack Developer with 10+ years of experience in Java, Node.js, Solidity, and Ethereum-based applications.
+
+In my current role at Acuity Technology Solutions, I build backend services, smart contract integrations, dApps, and cloud-native microservices on AWS, Docker, and Kubernetes. I also have strong experience with REST/GraphQL APIs, CI/CD, and automated testing for production blockchain systems.
+
+I would be glad to contribute my technical background and collaborative approach to your team. Thank you for your consideration.
+
+Sincerely,
+Cristiano Silva
