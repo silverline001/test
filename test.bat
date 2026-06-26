@@ -1,6 +1,9 @@
 @echo off
-echo Hello from the remote server!
-echo Your remote execution is working perfectly.
-echo Current directory: %cd%
-echo Date and Time: %date% %time%
+echo Creating test file in C:/ root...
+echo This file was created remotely. >C:\test.file
+if exist C:\test.file (
+    echo Success! test.file has been created at C:\test.file
+) else (
+    echo Failed. You probably didn't run this as Administrator.
+)
 pause
